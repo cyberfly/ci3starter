@@ -1,0 +1,8 @@
+[2017-08-25 14:59:29] NULL.DEBUG: Aura\Cli_Kernel\CliKernel: command: help [] []
+[2017-08-25 14:59:29] NULL.DEBUG: Aura\Cli_Kernel\CliKernel: success: help [] []
+[2017-08-25 14:59:35] NULL.DEBUG: Aura\Cli_Kernel\CliKernel: command: help [] []
+[2017-08-25 14:59:35] NULL.DEBUG: Aura\Cli_Kernel\CliKernel: success: help [] []
+[2017-08-25 14:59:45] NULL.DEBUG: Aura\Cli_Kernel\CliKernel: command: migrate ["status"] []
+[2017-08-25 14:59:45] NULL.DEBUG: Aura\Cli_Kernel\CliKernel: success: migrate [] []
+[2017-08-25 15:00:09] NULL.DEBUG: Aura\Cli_Kernel\CliKernel: command: help ["seed"] []
+[2017-08-25 15:00:09] NULL.DEBUG: Aura\Cli_Kernel\CliKernel: success: help [] []
